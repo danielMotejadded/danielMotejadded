@@ -5,13 +5,13 @@
 
 - 🎮 JS Fighting Game **l**
 
-- 🌱 I’m currently learning **React, Typescript**
-
 - 🔋 Electric and Automation Services website **l**
 
 - 📊 Bankist Website **l**
 
 - 📫 How to reach me **dmotejadded@interia.pl**
+
+- 🌱 I’m currently learning **React, Typescript**
 
 - 👨‍💻 All of my projects are available at **l**
 

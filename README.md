@@ -1,6 +1,7 @@
 [![MasterHead](https://i0.wp.com/brasap.com.br/wp-content/uploads/2021/03/javascript.gif?resize=980%2C429&ssl=1)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
+<img src= "https://i.gifer.com/6tXM.gif" align="right" alt="programmer">
 
 
 - 🎮 JS Fighting Game **l**

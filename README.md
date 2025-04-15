@@ -16,7 +16,7 @@ Let's build cool stuff together!
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👨‍💻 All of my projects are available at **l**
+- 👨‍💻 All of my bigger/commercial projects are available at **l**
   <a href="https://damote.pl" target="_blank">damote.pl</a>
 
 <h3 align="left">Connect with me:</h3>

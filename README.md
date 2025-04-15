@@ -1,12 +1,11 @@
 [![MasterHead](https://i0.wp.com/brasap.com.br/wp-content/uploads/2021/03/javascript.gif?resize=980%2C429&ssl=1)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
+
 <p>
-  🧠 *"A true master is an eternal student"* — that's my motto. I'm constantly learning, building, breaking things (in the good way), and learning some more.
-
+"A true master is an eternal student"* — that's my motto. I'm constantly learning, building, breaking things (in the good way), and learning some more.
 Here you’ll find some of my personal and commercial projects — each one a step on my journey. Feel free to check out my code, share feedback, or just say hi!
-
-🚀 Let's build cool stuff together!
+Let's build cool stuff together!
 </p>
 <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" alt="programmer" width="400">
 

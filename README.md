@@ -4,18 +4,14 @@
 <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" alt="programmer" width="400">
 
 
-- 🎮 JS Fighting Game **l**
 
-- 🔋 Electric and Automation Services website **l**
-
-- 📊 Bankist Website **l**
 
 - 📫 How to reach me **dmotejadded@interia.pl**
 
 - 🌱 I’m currently learning **React, Typescript**
 
 - 👨‍💻 All of my projects are available at **l**
-  <a href="https://damote.pl" target="blank">damote.pl</a>
+  <a href="https://damote.pl" target="_blank">damote.pl</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

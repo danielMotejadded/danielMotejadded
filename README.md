@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <p>
-"A true master is an eternal student"* — that's my motto. I'm constantly learning, building, breaking things (in the good way), and learning some more.
+"A true master is an eternal student"* — that's my motto. I'm constantly learning, building, breaking things (in a good way), and learning some more.
 Here you’ll find some of my personal and commercial projects — each one a step on my journey. Feel free to check out my code, share feedback, or just say hi!
 Let's build cool stuff together!
 </p>
